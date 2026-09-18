@@ -17,6 +17,10 @@
 - 🤝 Interested in AI products, agent engineering, developer tools, and open source.
 - 📚 Keeping notes while learning by shipping, debugging, and contributing.
 
+## How to reach me | 联系我
+
+- 📫 Email: [jinmutianlong@gmail.com](mailto:jinmutianlong@gmail.com)
+
 ## Current focus | 当前关注
 
 - Agent reliability：工具异常、状态恢复、可观测性与可验证结果
