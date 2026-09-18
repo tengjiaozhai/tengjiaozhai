@@ -36,7 +36,7 @@
 ## Languages and tools | 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,java,vue,git,docker,redis,postgresql" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,vue,git,docker,redis,postgresql,liunx,mysql" alt="Languages and tools" />
 </p>
 
 <p align="center">
