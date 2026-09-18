@@ -17,16 +17,6 @@
 - 🤝 Interested in AI products, agent engineering, developer tools, and open source.
 - 📚 Keeping notes while learning by shipping, debugging, and contributing.
 
-## Selected work | 精选项目
-
-| Project | What it shows |
-| --- | --- |
-| [boss-run](https://github.com/tengjiaozhai/boss-run) | 求职市场与招聘工作流实验，持续探索如何把复杂流程做成可执行工具。 |
-| [AgentScope](https://github.com/tengjiaozhai/agentscope) | 参与 Agent 框架的工具调用、错误处理与状态生命周期改进。 |
-| [AgentScope-Java](https://github.com/tengjiaozhai/agentscope-java) | 参与 Java Agent 框架的文档解析与 Markdown 输出质量改进。 |
-| [codex-host](https://github.com/tengjiaozhai/codex-host) | 探索在 Codex Desktop 中运行 Pi、Claude Code 等 coding agents。 |
-| [tengjiaozhai.github.io](https://github.com/tengjiaozhai/tengjiaozhai.github.io) | 个人 HTML / 学习知识库。 |
-
 ## Current focus | 当前关注
 
 - Agent reliability：工具异常、状态恢复、可观测性与可验证结果
